@@ -1,0 +1,4 @@
+interface:
+  display_name: "Soldatov Vibecoding"
+  short_description: "Управляемая AI-разработка от идеи до передачи"
+  default_prompt: "Use $soldatov-vibecoding to turn my idea or AI-generated prototype into a scoped, testable, deployable project."
